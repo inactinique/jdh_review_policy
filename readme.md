@@ -1,33 +1,44 @@
-# Journal Of Digital History Peer Review policy
+# Journal Of Digital History Ethics in Peer Review policy
 
 (based on: https://www.cambridge.org/core/services/peer-review/ethics-in-peer-review)
 
-The Journal of Digital History follows a single-blind peer-review policy, meaning that reviewer knows the name of author(s) of article they review, but that authors do not know their article's reviewers.
+6.11.2023
 
-This document is aimed at peer reviewers, to promote ethical review practices. The aim is to publish articles based on rigorous and ethically sound research.
+Starting January 2024[^before], the *Journal of Digital History* follows a single-blind peer-review policy, meaning that reviewers know the name of author(s) of article they review, but that authors do not know their article's reviewers. This policy has been chosen after careful consideration and validation by the Journal's board, as it best fits the Journal's values and specificities. This policy might be changed in the coming years, as the question of the open peer review will be considered. In any cases, any changes will be publicly announced.
+
+[^before]: Before 2024, the JDH followed a double-blind peer review process. One of the things that had us change our minds is the difficulty to find peer reviewers, the workload for our editors, that is quite high as the Journal -- using jupyter notebooks -- has already a very specific way to publish articles.
+
+Nevertheless the *Journal of Digital History*'s editorial team and board are conscious that a single-blind peer review process can lead to many biases, linked for instance to gender or origins of authors. This document is hence aimed at peer reviewers, to promote ethical review practices. Our wish is to publish articles based on rigorous and ethically sound research.
+
+After careful examination of several other journal's statement on ethical peer review process, we have retained five points, inspired by [Cambridge University Press](https://www.cambridge.org/core/services/peer-review/ethics-in-peer-review), a texte that follows [COPE](https://publicationethics.org/peerreview) guidelines.
 
 ## Conflicts of interest
 
-Imspired by [Cambridge University Press](https://www.cambridge.org/core/services/peer-review/ethics-in-peer-review) ethics in peer review document, we define a conflict interest as
+We define a conflict interest as
 
-> anything that affects or has the potential to affect peer reviewer's ability to review an article solely on the basis of academic merit. Even if you feel able to review the content with integrity, it is essential that you declare anything that could be considered a conflict of interest to the relevant editor.
+>  situations that are, or could be perceived to interfere with the objective presentation, review or publication of a piece of work.
 
-In case of potential conflict of interest, reviewer should contact the [managing editor](mailto:jdh.admin@uni.lu). The ditorial team will then discuss this conflict of interest and see if there are possibilities to mitigate its influence.
+(Source: [Publishing Ethics](https://www-degruyter-com.proxy.bnl.lu/publishing/for-authors/for-journal-authors/publishing-ethics)).
 
-The cornerstone of a sound peer review is hence transparency from potential reviewers, as well as from the editorial team. Both will share their views on conflicts of interest.
+To identify conflict of interests, the JDH is committed to and asks reviewers to be committed to transparency. Transparency only allows to identify potential conflicts, but also ways to mitigate them.
 
-There are many examples of conflicts of interests. Here are some examples:
+In case of potential conflict of interest, reviewer should contact the [managing editor](mailto:jdh.admin@uni.lu). A conflict of interest does not mean that one cannot review the article: our editorial team will discuss if there are possibilities to mitigate the conflict of interest.
 
-- a personnal or professional relationship with the authro(s);
-- the article is focusing on a research subject that is close to an article or a book that the reviewer is working on;
-- any financial interest linked to the result of the review.
+Reviewers might not identify immediatly a conflict of interest. A conflict can indeed  become aparent at any point of the review process. Reviewers are hence invited to contact the managing editor as soon as the conflict of interest becomes obvious.
 
-Reviewers might not see immediatly a conflict of interest, that can become aparent at any point of the review process. Reviewers are hence invited to contact the managing editor as soon as the conflict of interest becomes obvious.
+There are many examples of conflicts of interests. Here are some of them:
 
+- ersonal connections between the any of the authors and the editors or reviewers
+- contractual or professional commitments
+- financial or personal interests that would be affected by the publication of the research
+- patents held, or pending
+- grants received by the authors or institutions.
+
+([source](https://www-degruyter-com.proxy.bnl.lu/publishing/for-authors/for-journal-authors/publishing-ethics)).
 
 ## Bias
 
-There are many occasion where (unconscious) biases can be ntroduced in the peer review process. As the Journal of Digital History peer review policy is single blind, all reviewers should asked themselves if knowing the author(s), if their gender or origins, might influence the result of the peer review process. To avoid biases in your review, basing all your affirmation / arguments on arguments made in the paper is key. 
+There are many occasion where (unconscious) biases can be introduced in the peer review process. As the *Journal of Digital History* peer review policy is single blind, all reviewers should asked themselves if knowing the author(s), if their gender or origins might influence the writing of their review process. To avoid biases in your review, rooting all your affirmation / arguments on elements in the paper is key. 
 
 ## Confidentiality
 
