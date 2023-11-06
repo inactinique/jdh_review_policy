@@ -1,8 +1,13 @@
-# Journal Of Digital History Ethics in Peer Review policy
-
+# Journal Of Digital History Peer Review Ethics Declaration
 (based on: https://www.cambridge.org/core/services/peer-review/ethics-in-peer-review)
 
 6.11.2023
+
+The Journal of Digital History (JDH) is a joint initiative of the Luxembourg Centre for Contemporary and Digital History (C²DH) at the University of Luxembourg and the De Gruyter publishing group. The journal serves as a forum for critical debate and discussion in the field of digital history by offering an innovative publication platform and promoting a new form of data-driven scholarship and of transmedia storytelling in the historical sciences. As an international peer-reviewed open access journal, the JDH sets new standards in history publishing based on a novel multi-layered approach. Based on code notebooks, articles include:
+
+- a narration layer exploring the possibilities of multimedia storytelling;
+- a hermeneutic layer highlighting the methodological implications of using digital tools, data and code;
+- a data layer providing access to data and making it reusable (when possible).
 
 Starting January 2024[^before], the *Journal of Digital History* follows a single-blind peer-review policy, meaning that reviewers know the name of author(s) of article they review, but that authors do not know their article's reviewers. This policy has been chosen after careful consideration and validation by the Journal's board, as it best fits the Journal's values and specificities. This policy might be changed in the coming years, as the question of the open peer review will be considered. In any cases, any changes will be publicly announced.
 
