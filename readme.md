@@ -13,7 +13,7 @@ Starting January 2024[^before], the *Journal of Digital History* follows a singl
 
 [^before]: Before 2024, the JDH followed a double-blind peer review process. One of the things that had us change our minds is the difficulty to find peer reviewers, the workload for our editors, that is quite high as the Journal -- using jupyter notebooks -- has already a very specific way to publish articles.
 
-Nevertheless the *Journal of Digital History*'s editorial team and board are conscious that a single-blind peer review process can lead to many biases, linked for instance to gender or origins of authors. This document is hence aimed at peer reviewers, to promote ethical review practices. Our wish is to publish articles based on rigorous and ethically sound research.
+Nevertheless the *Journal of Digital History*'s editorial team and board are conscious that a single-blind peer review process can lead to many biases, most often unconscious, linked for instance to gender or origins of authors. This document is hence aimed at peer reviewers, to promote ethical review practices. Our wish is to publish articles based on rigorous and ethically sound research.
 
 After careful examination of several other journal's statement on ethical peer review process, we have retained five points, inspired by [Cambridge University Press](https://www.cambridge.org/core/services/peer-review/ethics-in-peer-review), a texte that follows [COPE](https://publicationethics.org/peerreview) guidelines.
 
