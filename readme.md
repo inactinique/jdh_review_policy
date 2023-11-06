@@ -43,7 +43,7 @@ There are many examples of conflicts of interests. Here are some of them:
 
 ## Bias
 
-There are many occasion where (unconscious) biases can be introduced in the peer review process. As the *Journal of Digital History* peer review policy is single blind, all reviewers should asked themselves if knowing the author(s), if their gender or origins might influence the writing of their review process. To avoid biases in your review, rooting all your affirmation / arguments on elements in the paper is key. 
+There are many occasion where (unconscious) biases can be introduced in the peer review process. As the *Journal of Digital History* peer review policy is single blind, all reviewers should asked themselves if knowing the author(s), if their gender or origins might influence the writing of their review process. To avoid biases in your review, rooting all your affirmation / arguments on elements from the paper is key. 
 
 ## Confidentiality
 
