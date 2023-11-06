@@ -33,7 +33,7 @@ Reviewers might not identify immediatly a conflict of interest. A conflict can i
 
 There are many examples of conflicts of interests. Here are some of them:
 
-- personal connections between the any of the authors and the editors or reviewers
+- personal connections between any of the authors and the editors or reviewers
 - contractual or professional commitments
 - financial or personal interests that would be affected by the publication of the research
 - patents held, or pending
