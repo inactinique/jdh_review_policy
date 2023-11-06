@@ -47,23 +47,23 @@ There are many occasion where (unconscious) biases can be introduced in the peer
 
 ## Confidentiality
 
-The editorial team will ensure that the authors do not identify their peer reviewers. The editorial team will also ask the authors not to try guessing who are their peer reviewers.
+The editorial team will ensure that the authors do not identify their peer reviewers. The editorial team will ask the authors not to try to guess who are their peer reviewers are.
 
-Peer reviewers should be careful when they write their review and should avoid putting in there any elements that can help authors identifying them. 
+Peer reviewers should be careful when they write their review and should avoid adding any elements that can help authors identifying their reviewer. 
 
-Furthermore, papers as long as they are not published, are confidential documents, as well as reviews. Peer reviewers should refrain from actions that might lead to a confidentiality breach: talking to someone else about the article and its review or submitting it to a chatbot, for instance.
+Furthermore, as long as not published, papers and reviews are confidential documents. Peer reviewers should refrain from actions that might lead to a confidentiality breach: talking to someone else about the article and its review or submitting it to a chatbot, for instance.
 
 Reviewers should not ask someone else to write the review on their behalf.
 
 ## Quality and efficiency
 
-Timely reviews are key to a fluid publication process. When they accept to review a paper, reviewers clearly communicate with the editor about the time they will need to write the review. If a reviewer -- whatever the reason -- realises that they will not be able to send their review on time, they should declare it to the editor as soon as possible. The editor will then decide if it is possible or not to grant an extension to the reviewer. The JDH editorial team understands that quality review requires time.
+Timely reviews are key to a smooth publication process. When they accept to review a paper, reviewers clearly communicate with the editor about the time they will need to write the review. If a reviewer -- whatever the reason -- realises that they will not be able to send their review on time, they should declare it to the editor as soon as possible. The editor will then decide if it is possible or not to grant an extension to the reviewer. The JDH editorial team understands that quality review requires time.
 
-Though reviewers can send a confidential comment to the editors, the whole review should be written the most respectfull way. One way to write respectfully, even if the modification asked for are important, even if the reviewer think that the article should be rejected, is to imagine that the review could be publicly available. 
+Though reviewers can send a confidential comment to the editors, the whole review should be written in a respectfull maner. Even if the modifications asked for are important, even if the reviewer think that the article should be rejected, on way of being respectfull is to imagine that the review could be publicly available. 
 
-A review should be written following the idea that it is made to improve the quality of the author(s)'s research. Though quality reviews are especially important for young researchers, they will be of interest at all stage of a research career.
+Any review should follow the idea of aiding authors to improve the quality of their research. Though quality reviews are especially important for young researchers, they will be of interest at all stages (add s!) of a research career.
 
-All element of the review should be grounded in evidence from the article reviewed. It should be detailed and constructive.
+All elements of the review should be grounded in evidence from the article reviewed. It should be detailed and constructive.
 
 ## Author or editor misconduct
 
