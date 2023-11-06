@@ -59,7 +59,7 @@ Reviewers should not ask someone else to write the review on their behalf.
 
 Timely reviews are key to a smooth publication process. When they accept to review a paper, reviewers clearly communicate with the editor about the time they will need to write the review. If a reviewer -- whatever the reason -- realises that they will not be able to send their review on time, they should declare it to the editor as soon as possible. The editor will then decide if it is possible or not to grant an extension to the reviewer. The JDH editorial team understands that quality review requires time.
 
-Though reviewers can send a confidential comment to the editors, the whole review should be written in a respectfull maner. Even if the modifications asked for are important, even if the reviewer think that the article should be rejected, on way of being respectfull is to imagine that the review could be publicly available. 
+Though reviewers can send a confidential comment to the editors, the whole review should be written in a respectfull maner, even if the modifications asked for are important, even if the reviewer think that the article should be rejected. One way of being respectfull is to imagine that the review could be publicly available. 
 
 Any review should follow the idea of aiding authors to improve the quality of their research. Though quality reviews are especially important for young researchers, they will be of interest at all stages (add s!) of a research career.
 
